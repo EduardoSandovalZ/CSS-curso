@@ -1,0 +1,4 @@
+generan cambios visuales pero no afectan al DOM
+
+first-line: Selecciona la primera linea de un texto. 
+    NOTA: no funciona con inline
