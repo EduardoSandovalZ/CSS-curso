@@ -1,0 +1,18 @@
+* {
+  font-size: 30px;
+}
+
+.texto {
+  padding: 20px;
+}
+.texto::first-line {
+  color: blue;
+  font-size: 2em;
+}
+.texto2 {
+  padding: 20px;
+}
+.texto2::first-letter {
+  color: blue;
+  font-size: 2em;
+}

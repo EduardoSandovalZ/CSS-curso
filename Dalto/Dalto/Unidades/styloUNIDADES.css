@@ -1,0 +1,18 @@
+.contact-form {
+  font-size: 25px;
+  background-color: #000;
+  /*Esto es para abarcar todo el tamaño de una pantalla*/
+  width: 50vw;
+  height: 50vh;
+}
+
+/*
+
+.contact-form {
+  font-size: 1px;
+}
+
+.contact-form__h2 {
+  font-size: 125em;
+}
+*/

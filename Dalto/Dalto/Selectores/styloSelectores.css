@@ -1,0 +1,21 @@
+/*Esta es la manera de seleccionar todos los elementos del HTML (UNIVERSAL)*/
+* {
+  color: red;
+}
+/*Esta es la manera de seleccionar los h1 igual funciona con h2,div,p,etc (POR ETIQUETAS)*/
+h1 {
+  color: blue;
+}
+/*Esta es la manera de seleccionar por CLASES*/
+.texto {
+  color: green;
+}
+/*Esta es la manera de seleccionar por ID 
+NOTA: NO DEBES USAR 2 ID IGUALES*/
+#h2ID {
+  color: purple;
+}
+/*Esta es la manera de seleccionar por ATRIBUTO*/
+[rancio="sii"] {
+  color: brown;
+}

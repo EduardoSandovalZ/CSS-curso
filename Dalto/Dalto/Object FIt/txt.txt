@@ -1,0 +1,5 @@
+Propiedades:
+    Contain: valor por defecto, hace que la resolucion de la imagen se ajusten al contenido
+    Cover: hace que la resolucion de la imagen se ajusten al contenedor recortando los bordes
+    None: actua como si fuese la imagen original
+    Scale-down: se queda con la mejor propiedad 

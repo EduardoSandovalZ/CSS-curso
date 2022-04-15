@@ -1,0 +1,10 @@
+Bloques:
+	Abarcan todo el tamaño de su contenedor 
+	Para pasar de bloque a linea:
+	display: inline;
+En linea:
+	Abarcan solo el tamaño que ocupen (su extension)
+	Para pasar de linea a bloque:
+	display: block;
+	Nota: Los elementos en linea no se les puede dar height o width
+	

@@ -1,0 +1,13 @@
+/*
+MANERA GENERAL DE SELECCIONARLOS USANDO BEM*/
+.contact-form__input {
+  color: red;
+}
+/*MANERA DE SELECCIONAR EL PRIMERO SI HAY VARIOS QUE SE REPITAN*/
+.contact-form__input:first-child {
+  color: green;
+}
+
+.contact-form__input--active {
+  color: blue;
+}

@@ -1,0 +1,8 @@
+Medidas
+
+Relativas y Fijas
+Relativas: se usan para el responsive design.
+medida em:
+	1 em = 16px
+	
+PERO ESTO ES RELATIVO, SE BASA MAS BIEN EN EL TAMAÑO DEL CONTENEDoR PRINCIPAL.

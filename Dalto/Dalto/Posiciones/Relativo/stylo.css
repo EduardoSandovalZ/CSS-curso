@@ -1,0 +1,35 @@
+* {
+  font-size: 30px;
+}
+.caja1 {
+  width: 120px;
+  height: 120px;
+  background-color: red;
+}
+.caja2 {
+  width: 120px;
+  height: 120px;
+  background-color: green;
+  position: relative;
+
+  left: 60px;
+}
+.caja3 {
+  left: 623px;
+
+  width: 120px;
+  height: 120px;
+
+  background-color: lightblue;
+  position: absolute;
+
+  opacity: 0.4;
+}
+.caja4 {
+  top: 120px;
+
+  margin: auto;
+  width: 120px;
+  height: 120px;
+  background-color: yellow;
+}

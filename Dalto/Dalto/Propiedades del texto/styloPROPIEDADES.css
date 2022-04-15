@@ -1,0 +1,23 @@
+.contact-form {
+  font-size: 25px;
+}
+.contact-form__H2 {
+  font: size 2em; /*tamaño de la letra*/
+  font-family: "Montserrat", sans-serif; /*tipografia*/
+  line-height: 1.9; /*tamaño que ocupan las  letras / caracteres*/
+  font-weight: normal; /*peso de las letra (grosor)*/
+  font-stretch: normal; /**/
+  font-variant: small-caps; /**/
+  color: red;
+}
+
+/*
+
+.contact-form {
+  font-size: 1px;
+}
+
+.contact-form__h2 {
+  font-size: 125em;
+}
+*/

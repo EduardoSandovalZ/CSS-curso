@@ -1,0 +1,8 @@
+Manera en la que funcionan la especificidad
+1. Si nos referimos ya sea por etiquetas, clases,id, etc pero son el mismo, tomara el ultimo puesto.
+Ahora si el orden es el siguiente
+1.!important
+2.estilos en linea
+3. ID
+4. Clases, pseudo-clases, atributos
+5. Elementos (etiquetas), pseudo-elementos

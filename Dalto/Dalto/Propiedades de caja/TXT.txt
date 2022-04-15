@@ -1,0 +1,21 @@
+Padding: distancia entre el texto y la caja 
+	padding: arriba, derecha, abajo, izquierds
+Margin: distancia entre cajas 
+	margin auto; //centra las cajas en el centro, solo funciona si son block
+height: altura de la caja
+width: largo de la caja
+box-sizing:
+	Border box: respeta las dimensiones que le demos a alcaja sin importar que el cotnenido no quede contenido dentro de la caja
+	conten box: altera las dimensiones de la caja para que el cotenido quede dentro de la caja contenedora
+text aling: centrar horizontalmente el texto dentro de una caja
+border-radius: Propiedad que redondea las esquinas de una caja
+	border: 4px solid blue;
+box shadow: darle sombra a la caja
+	box-shadow: ejex, ejey, tamaño desenfoque, borde de la sombra, color de la sombra
+
+text shadow: darle sombra al texto
+	ejex ejey tamaño desenfoque, color
+
+transform: rotate(numero de grados deg)
+opacity: opacidad/ transparencia del contenedor 
+	entre 0 y 1.

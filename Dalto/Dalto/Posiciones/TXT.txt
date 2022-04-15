@@ -1,0 +1,21 @@
+Outline: Generamos un borde sin afectar a las demas cajas 
+border hace algo similar pero hace que la caja sea mas pequeña 
+(ojo, el tamaño que pongamos lo respeta, pero ira invadiendo hacia adentro, quitandole espacio a lo quecontenga la caja)
+
+NOTA: los parametros de border y outline son los mismos
+
+Relative: conserva el espacio reservado de la caja aunque la muevas y sus propiedades principales son left y top y sus referencias son las que su espacio resevado esta ocupando
+
+Aboslute: no improta el espacio reservado, sobreponemos una caja encima de la otra 
+	sus referencias es el viewport o el contenedor padre que lo almacene, por que no tiene espacios resevrados
+Fixed: Mantiene fijo el contenedor en una posicion, normalmente usado en barras de opciones
+Sticky: similar al fixed pero este lo puedes poner entre cajas y solo se quedara fijo despues de pasar por el
+	
+z-index- Orden en el que colocamos en el eje z (quien esta delante y quiene esta detras)
+	Entre mas grande sea, mas adelnate esta de los demas 
+	
+	Nota: cuando tenemos contenedores padre e hijo los z indez dejan de funcionar, el padre siempre debe de estar por debajo de hijo
+	La unica forma de evitar esto es no definir el z index del padre y a los hijos usar indices menos a 0.
+	
+	
+	
